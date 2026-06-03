@@ -1,0 +1,3 @@
+sudo apt install traceroute
+pip install -r requirements.txt
+python3 ip_tracker.py
